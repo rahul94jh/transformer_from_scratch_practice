@@ -1,4 +1,4 @@
-This repo is for oracticing coding transformer network from scratch following several audio video tutorials available freely.
+This repo is for Practicing coding transformer network from scratch following several audio video tutorials available freely.
 
 This code is based on https://www.youtube.com/watch?v=U0s0f995w14&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=38&t=1s 
 
